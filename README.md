@@ -1,16 +1,12 @@
-# first_flutter
+# Flutter Quran App
 
-A new Flutter project.
+Quran App with Flutter (Consume public API)
 
-## Getting Started
+1. Onboarding Page <br >
+![WhatsApp Image 2023-05-24 at 22 47 04](https://github.com/diardooo/Flutter-Quran-App/assets/49031124/b132822b-0805-4120-8c4c-1783610db78a) <br >
 
-This project is a starting point for a Flutter application.
+2. Home Page <br >
+![WhatsApp Image 2023-05-24 at 22 47 03](https://github.com/diardooo/Flutter-Quran-App/assets/49031124/66c3742c-7ac7-4b5c-8f79-6882b669c6e5) <br >
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+3. Surah Page <br >
+![WhatsApp Image 2023-05-24 at 22 47 03](https://github.com/diardooo/Flutter-Quran-App/assets/49031124/a05b0695-88ad-49fb-a6ae-c3e94c83faca) <br >
